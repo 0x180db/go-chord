@@ -1,2 +1,2 @@
 # go-chord
-Event-driven microservices in Go
+Event-driven workflow engine in Go
